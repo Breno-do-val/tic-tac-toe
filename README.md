@@ -2,8 +2,8 @@
 Web Game using React library
 
 ## Table of Content
+* [Screenshots](#screenshots)
 * [General info](#general-info)
-* [Screenshots](#scrennshots)
 * [Technologies and Dependencies](#technologies-and-dependencies)
 * [Author](#author)
 * [License and copyright](#license-and-copyright)
